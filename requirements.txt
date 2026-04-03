@@ -4,3 +4,5 @@ numpy>1.24.0
 plotly>5.17.0
 langchain-google-genai>=4.2.1 
 langchain-core>=1.2.23 
+geopy
+pandas
